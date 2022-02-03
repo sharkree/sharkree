@@ -5,6 +5,7 @@ he/him
 
 - FTC Team 12635
 - Otherwise casual coder and java stan
+https://github-readme-stats.vercel.app/api/top-langs/?username=sharkree&layout=compact&langs_count=10&theme=github_dark
 - exists
 
 <!--
