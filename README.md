@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Daniel Kou, Class of '25 Gunn HS
+he/him
+
+- FTC Team 12635
+- Otherwise casual coder and java stan
+- exists
+
 <!--
 **sharkree/sharkree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
