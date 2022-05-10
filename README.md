@@ -7,9 +7,8 @@ he/him
 - Otherwise casual coder and java stan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkree&layout=compact&langs_count=10&theme=github_dark)
+![Contributions](https://skyline.github.com/sharkree/2021)
 - exists
-
-<img src="https://skyline.github.com/sharkree/2021">
 
 <!--
 **sharkree/sharkree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
