@@ -5,7 +5,13 @@ he/him
 
 - FTC 12635
 - Otherwise casual coder and java stan
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkree&layout=compact&langs_count=10&theme=github_dark)
 - exists
-- if something doesn't work saw something off and try again
+- actually sleeps
+- nothing special
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharkree&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkree&show_icons=true&count_private=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkree&show_icons=true&count_private=true&theme=vue-dark)
