@@ -3,11 +3,9 @@
 Daniel Kou, Class of '25 Gunn HS
 he/him
 
-- FTC 12635
-- Otherwise casual coder and java stan
+- FRC 6036 / FTC 12635 alum and mentor
 - exists
-- actually sleeps
-- nothing special
+- likes sleeping
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharkree&theme=vue-dark)](https://git.io/streak-stats)
